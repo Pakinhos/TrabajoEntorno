@@ -6,6 +6,9 @@ public class operaciones {
 	//////EJERCICIO 1///////
 	public static void tabla(int num) {
 		
+		int x=2;
+		int x=3;
+		
 		for(int i=1; i<=10;i++)
 		{
 			System.out.println(num+" X "+i+" = "+(num*i));
